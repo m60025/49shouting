@@ -1,6 +1,21 @@
 {
-    "accountSn": "1",
-    "user-1": "1*****1",
-    "password-1": "1*****1",
-    "appid-1": "1*****1"
+    "accountSn": "1,2,3,4,5,6",
+    "user-1": "13131666727",
+    "password-1": "199910",
+    "appid-1": "1f7af72ad6912d306b5053abf90c7ebb09c7d96aa72256ecb7e7402a109456d62b3064ff9ac8ed06afc27e24c7ceee1dabd3e17257509f1ec151ecf63611a64ace4e5a0d50dc4ef49456143d8db461b7",
+    "user-2": "13180366637",
+    "password-2": "199910",
+    "appid-2": "1f7af72ad6912d306b5053abf90c7ebb09c7d96aa72256ecb7e7402a109456d62b3064ff9ac8ed06afc27e24c7ceee1dabd3e17257509f1ec151ecf63611a64ace4e5a0d50dc4ef49456143d8db461b7",
+    "user-3": "15639419330",
+    "password-3": "199910",
+    "appid-3": "1f7af72ad6912d306b5053abf90c7ebb09c7d96aa72256ecb7e7402a109456d62b3064ff9ac8ed06afc27e24c7ceee1dabd3e17257509f1ec151ecf63611a64ace4e5a0d50dc4ef49456143d8db461b7",
+    "user-4": "15613636585",
+    "password-4": "199910",
+    "appid-4": "1f7af72ad6912d306b5053abf90c7ebb09c7d96aa72256ecb7e7402a109456d62b3064ff9ac8ed06afc27e24c7ceee1dabd3e17257509f1ec151ecf63611a64ace4e5a0d50dc4ef49456143d8db461b7",
+    "user-5": "13012020921",
+    "password-5": "199910",
+    "appid-5": "1f7af72ad6912d306b5053abf90c7ebb09c7d96aa72256ecb7e7402a109456d62b3064ff9ac8ed06afc27e24c7ceee1dabd3e17257509f1ec151ecf63611a64ace4e5a0d50dc4ef49456143d8db461b7",
+    "user-6": "16630603054",
+    "password-6": "199910",
+    "appid-6": "1f7af72ad6912d306b5053abf90c7ebb09c7d96aa72256ecb7e7402a109456d62b3064ff9ac8ed06afc27e24c7ceee1dabd3e17257509f1ec151ecf63611a64ace4e5a0d50dc4ef49456143d8db461b7"
 }
